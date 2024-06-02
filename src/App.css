@@ -1,0 +1,34 @@
+.app {
+  width: 40%;
+  margin: 0 auto;
+  height:100vh;
+  background:#EAF3F8 ;
+}
+
+.logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 0;
+}
+
+.logo img {
+  height: 40px;
+}
+
+.logo h1 {
+  color:#2da4fb;
+  margin-bottom: 10px;
+}
+
+.subJudul {
+  text-align: center;
+  color: #2da4fb;
+  font-weight: bold;
+  margin-bottom: 50px;
+}
+
+.list h2 {
+  color: #2da4fb;
+  padding: 0 0 0 10px;
+}
